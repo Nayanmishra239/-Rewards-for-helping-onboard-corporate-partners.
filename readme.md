@@ -8,6 +8,8 @@ This project introduces a blockchain-based rewards system that incentivizes indi
 
 ## Contract Address
 0x6Ae273D66A0767200afB264D79D7cd53cF31B40a
+![image](https://github.com/user-attachments/assets/e33ad8be-d7a0-4700-a71b-ca0cd4a43c82)
+
 
 
 ## Project Vision
